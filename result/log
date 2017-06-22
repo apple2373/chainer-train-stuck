@@ -1,0 +1,9 @@
+[
+    {
+        "elapsed_time": 4.8423850536346436, 
+        "iteration": 1, 
+        "main/loss": 1.0723270177841187, 
+        "main/accuracy": 0.4955421984195709, 
+        "epoch": 0
+    }
+]
